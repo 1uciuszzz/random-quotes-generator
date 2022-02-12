@@ -53,7 +53,7 @@ export default class App extends Component {
               <div className='sm-i'>
                 <span className='material-icons'>
                   <a
-                    href='https://nickk.cn'
+                    href='https://1uciuszzz.github.io'
                     target='_blank'
                     rel='noopener noreferrer'>
                     public
@@ -62,7 +62,7 @@ export default class App extends Component {
 
                 <span className='material-icons'>
                   <a
-                    href='https://github.com/n1ckzhao'
+                    href='https://github.com/1uciuszzz'
                     target='_blank'
                     rel='noopener noreferrer'>
                     whatsapp
